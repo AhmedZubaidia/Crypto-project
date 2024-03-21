@@ -1,0 +1,103 @@
+[06/25/23]seed@VM:~/.../Labsetup$ manual_attack.py
+C1: 7278e03cb97ba35881c8bbd368c149a0
+C2: 933ea3782fd8bf89aacc5d63d4ebfd9d
+C3: f0d8dae50c28e81cb2f4bca8bc2892d5
+Valid for block=1 K=1: i = 0x6c
+CC: 0000000000000000000000000000006c
+Valid for block=1 K=2: i = 0xc8
+CC: 0000000000000000000000000000c86f
+Valid for block=1 K=3: i = 0x5c
+CC: 000000000000000000000000005cc96e
+Valid for block=1 K=4: i = 0x51
+CC: 000000000000000000000000515bce69
+Valid for block=1 K=5: i = 0xac
+CC: 0000000000000000000000ac505acf68
+Valid for block=1 K=6: i = 0xa1
+CC: 00000000000000000000a1af5359cc6b
+Valid for block=1 K=7: i = 0xa3
+CC: 000000000000000000a3a0ae5258cd6a
+Valid for block=1 K=8: i = 0x1c
+CC: 00000000000000001cacafa15d57c265
+Valid for block=1 K=9: i = 0x9d
+CC: 000000000000009d1dadaea05c56c364
+Valid for block=1 K=10: i = 0x94
+CC: 000000000000949e1eaeada35f55c067
+Valid for block=1 K=11: i = 0x2c
+CC: 00000000002c959f1fafaca25e54c166
+Valid for block=1 K=12: i = 0x9b
+CC: 000000009b2b929818a8aba55953c661
+Valid for block=1 K=13: i = 0xd9
+CC: 000000d99a2a939919a9aaa45852c760
+Valid for block=1 K=14: i = 0xcb
+CC: 0000cbda9929909a1aaaa9a75b51c463
+Valid for block=1 K=15: i = 0x42
+CC: 0042cadb9828919b1baba8a65a50c562
+Valid for block=1 K=16: i = 0x3e
+CC: 3e5dd5c487378e8404b4b7b9454fda7d
+Valid for block=2 K=1: i = 0xc4
+CC: 000000000000000000000000000000c4
+Valid for block=2 K=2: i = 0x39
+CC: 000000000000000000000000000039c7
+Valid for block=2 K=3: i = 0xa5
+CC: 00000000000000000000000000a538c6
+Valid for block=2 K=4: i = 0x4c
+CC: 0000000000000000000000004ca23fc1
+Valid for block=2 K=5: i = 0xb3
+CC: 0000000000000000000000b34da33ec0
+Valid for block=2 K=6: i = 0xcf
+CC: 00000000000000000000cfb04ea03dc3
+Valid for block=2 K=7: i = 0xae
+CC: 000000000000000000aeceb14fa13cc2
+Valid for block=2 K=8: i = 0xa9
+CC: 0000000000000000a9a1c1be40ae33cd
+Valid for block=2 K=9: i = 0x22
+CC: 0000000000000022a8a0c0bf41af32cc
+Valid for block=2 K=10: i = 0xcb
+CC: 000000000000cb21aba3c3bc42ac31cf
+Valid for block=2 K=11: i = 0x11
+CC: 000000000011ca20aaa2c2bd43ad30ce
+Valid for block=2 K=12: i = 0xf9
+CC: 00000000f916cd27ada5c5ba44aa37c9
+Valid for block=2 K=13: i = 0x11
+CC: 00000011f817cc26aca4c4bb45ab36c8
+Valid for block=2 K=14: i = 0xaa
+CC: 0000aa12fb14cf25afa7c7b846a835cb
+Valid for block=2 K=15: i = 0x32
+CC: 0032ab13fa15ce24aea6c6b947a934ca
+Valid for block=2 K=16: i = 0x27
+CC: 272db40ce50ad13bb1b9d9a658b62bd5
+Valid for block=3 K=1: i = 0x9e
+CC: 0000000000000000000000000000009e
+Valid for block=3 K=2: i = 0xfd
+CC: 0000000000000000000000000000fd9d
+Valid for block=3 K=3: i = 0xc1
+CC: 00000000000000000000000000c1fc9c
+Valid for block=3 K=4: i = 0x8e
+CC: 0000000000000000000000008ec6fb9b
+Valid for block=3 K=5: i = 0x39
+CC: 0000000000000000000000398fc7fa9a
+Valid for block=3 K=6: i = 0x05
+CC: 00000000000000000000053a8cc4f999
+Valid for block=3 K=7: i = 0xe3
+CC: 000000000000000000e3043b8dc5f898
+Valid for block=3 K=8: i = 0x8b
+CC: 00000000000000008bec0b3482caf797
+Valid for block=3 K=9: i = 0xde
+CC: 00000000000000de8aed0a3583cbf696
+Valid for block=3 K=10: i = 0xea
+CC: 000000000000eadd89ee093680c8f595
+Valid for block=3 K=11: i = 0x8d
+CC: 00000000008debdc88ef083781c9f494
+Valid for block=3 K=12: i = 0x0b
+CC: 000000000b8aecdb8fe80f3086cef393
+Valid for block=3 K=13: i = 0x55
+CC: 000000550a8bedda8ee90e3187cff292
+Valid for block=3 K=14: i = 0x8c
+CC: 00008c560988eed98dea0d3284ccf191
+Valid for block=3 K=15: i = 0x45
+CC: 00458d570889efd88ceb0c3385cdf090
+Valid for block=3 K=16: i = 0xe2
+CC: e25a92481796f0c793f4132c9ad2ef8f
+P1: 285e5f5e29285e5f5e29205468652053
+P2: 454544204c6162732061726520677265
+P3: 61742120285e5f5e29285e5f5e290202
